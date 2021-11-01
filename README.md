@@ -74,6 +74,9 @@ Remote proctoring is the act of invigilating an online exam from any location to
 
 💥 After the end of the exam session, press ESC to close the proctoring window and generate reports which would be stored in proctoring_report folder.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p9TONa4UeFI/0.jpg)](https://www.youtube.com/watch?v=p9TONa4UeFI)
+
+
  ## ✨License
  This project is licensed under the MIT License - see the LICENSE.md file for details. However, the some facial models used is trained on non-commercial use datasets so I am not sure if that is allowed to be used for commercial purposes or not.
 
