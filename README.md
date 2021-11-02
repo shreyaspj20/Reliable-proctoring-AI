@@ -74,7 +74,7 @@ Remote proctoring is the act of invigilating an online exam from any location to
 
 💥 After the end of the exam session, press ESC to close the proctoring window and generate reports which would be stored in proctoring_report folder.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![GIF IMAGE](proctoring.gif)
 
 To watch the whole recording, click on the image below.
 
